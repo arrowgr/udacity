@@ -1,6 +1,6 @@
 /* Global */
 * {
-	/* you'll want to use this for something... boxy. */
+	box-sizing:border-box;
 }
 
 body {
